@@ -27,9 +27,9 @@ export const usersStore = defineStore({
     },
     positions: [],
     form: {
-      name: 'alex',
-      phone: '380999999999',
-      email: 'alaex@alex.ax',
+      name: '',
+      phone: '',
+      email: '',
       position: null,
       avatar: null
     }
